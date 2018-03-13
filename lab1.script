@@ -1,0 +1,18 @@
+命令稿啟動於 2018年03月13日 (週二) 21時49分20秒
+]0;novayo@novayo-GP62-6QF: ~/c++/ncku[01;32mnovayo@novayo-GP62-6QF[00m:[01;34m~/c++/ncku[00m$ whoami;pwd
+novayo
+/home/novayo/c++/ncku
+]0;novayo@novayo-GP62-6QF: ~/c++/ncku[01;32mnovayo@novayo-GP62-6QF[00m:[01;34m~/c++/ncku[00m$ git congi[K[Kfig -;[Kl
+user.email=F14051172@mail.ncku.edu.tw
+user.name=F14051172
+core.editor=vim
+]0;novayo@novayo-GP62-6QF: ~/c++/ncku[01;32mnovayo@novayo-GP62-6QF[00m:[01;34m~/c++/ncku[00m$ git ccl[K[Klone git@pd2b.imslab.org:F14051172/lab1. git
+Cloning into 'lab1'...
+remote: Counting objects: 6, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 6 (delta 0), reused 0 (delta 0)[K
+Receiving objects:  16% (1/6)   Receiving objects:  33% (2/6)   Receiving objects:  50% (3/6)   Receiving objects:  66% (4/6)   Receiving objects:  83% (5/6)   Receiving objects: 100% (6/6)   Receiving objects: 100% (6/6), done.
+]0;novayo@novayo-GP62-6QF: ~/c++/ncku[01;32mnovayo@novayo-GP62-6QF[00m:[01;34m~/c++/ncku[00m$ exit
+
+命令稿已於 2018年03月13日 (週二) 21時50分18秒
+ 完成
